@@ -1,0 +1,44 @@
+{
+    "nodes": {
+        "model.test_derived_tables.prison": {
+            "fqn": [
+                "test_derived_tables",
+                "prison",
+                "table1"
+            ],
+            "resource_type": "table"
+        },
+        "model.test_derived_tables.probation": {
+            "fqn": [
+                "test_derived_tables",
+                "probation",
+                "table1"
+            ],
+            "resource_type": "table"
+        },
+        "model.test_derived_tables.courts": {
+            "fqn": [
+                "test_derived_tables",
+                "courts",
+                "table1"
+            ],
+            "resource_type": "table"
+        },
+        "model.test_derived_tables.hq": {
+            "fqn": [
+                "test_derived_tables",
+                "hq",
+                "table1"
+            ],
+            "resource_type": "table"
+        },
+        "model.test_derived_tables.nope": {
+            "fqn": [
+                "test_derived_tables",
+                "nope",
+                "table1"
+            ],
+            "resource_type": "seed"
+        }
+    }
+}
