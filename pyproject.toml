@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "datahub_custom_domain_source"
+version = "0.1.0"
+description = ""
+license = "MIT"
+authors = []
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+acryl-datahub = "0.12"
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.1.0"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

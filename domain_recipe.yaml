@@ -1,0 +1,4 @@
+source:
+  type: create_derived_table_domains_source.source.CreateDerivedTableDomainsSource
+  config:
+    manifest_local_path: "local/folder/manifest.json"
